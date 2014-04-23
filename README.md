@@ -1,0 +1,4 @@
+Mastermind
+==========
+
+mastermind code kata
